@@ -2,11 +2,11 @@
 
  Diese Vorschläge sind nur Sachen, die **aktiv** Geld einbringen für die Firma. Es gibt noch weitaus mehr Sachen die im Hintergrund optimiert werden können, jedoch nicht direkt Geld machen, z.B. Website erneuern, CRM Tool (Notion) auf euch abstimmen, Social Media Posting Pipeline einrichten und anderes. Jedoch habe ich sie bewusst weggelassen, falls euch da auch eine genauere Auflistung interessiert, gebt mir Bescheid.
 
- Die Beispiele sind alles real Seiten und Probleme die ich mit Google Maps im Umkreis von Deggendorf Zentrum in kürzester Zeit gefunden habe.
+ Die Beispiele sind alles reale Seiten und Probleme die ich mit Google Maps im Umkreis von Deggendorf Zentrum in kürzester Zeit gefunden habe.
 
  Alle Texte, die [so aussehen](example.org), verlinken auf Websites.
 
- Zahlen, die hochgestellt[^1] sind, Verlinkungen auf Bildern, die sich auf den Text beziehen. Die Bilder sind auch am Ende des Dokuments zu finden.
+ Zahlen, die hochgestellt[^1] sind, Verlinkungen auf Bilder, die sich auf den Text beziehen. Die Bilder sind auch am Ende des Dokuments zu finden.
 
 ## Webseiten für Kunden verwalten 
 
