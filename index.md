@@ -15,7 +15,7 @@
 
 ### *Beispiel*
 
-  [Kaffee Wiedemann](https://www.kaffeehaus-wiedemann.de/) hat eine Wordpres Seite mit Elementor (kann man im HTML Document der Website auslesen) die Performance auf PC ist gut aber auf Handys grauenhaft[^2].
+  [Kaffee Wiedemann](https://www.kaffeehaus-wiedemann.de/) hat eine Wordpress Seite mit Elementor (kann man im HTML Document der Website auslesen) die Performance auf PC ist gut aber auf Handys grauenhaft[^2].
   Die Werte wurden mit [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) errechnet.
  
   Es ist kein Problem es zu optimieren und auch nicht viel Aufwand (schlechte Performance liegt hauptsächlich daran wie die Bilder laden und welche benutzt werden). 
