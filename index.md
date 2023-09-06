@@ -120,7 +120,6 @@
  - Betreuung von Onlineshops
  - komplexere Bildbearbeitung die mit SaaS wie Canva nicht möglich sind mit [GIMP](https://www.gimp.org/)
  - Vektorisierung und allgemeine Arbeit mit SVG's von z.B. Logos mit [InkScape](https://inkscape.org/)
-
 ---
 ---
 <br>
